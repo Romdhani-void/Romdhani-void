@@ -1,10 +1,10 @@
 # Hi there, I'm Mohamed Ali 👋
 
-- 🖥️ **System Administrator (SME)** — Subject Matter Expert (France region)  
-- 🌐 **Full-Stack Developer (MEAN)** — Building responsive, scalable web apps  
-- 💛 **TypeScript & JavaScript Lover** — Clean, maintainable, modern JS/TS code is my passion  
-- 🐹 Exploring **Go** for backend and systems programming  
-- 🚀 Developing **DevOps Skills** — CI/CD, containers, cloud, automation  
+- 🖥️ **Subject Matter Expert (SME)** — (France region)  
+- 🌐 **Full-Stack Developer** — Building responsive, scalable web apps.
+- 💛 **TypeScript & JavaScript Lover**
+- 🐹 Exploring **Go** for backend and systems programming
+- 🚀 Developing **DevOps Skills**
 - ⚡ Interested in **IoT** — connecting devices, data flows, smart environments  
 
 ---
@@ -26,8 +26,8 @@
 
 ### 📊 GitHub Stats & Languages
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)](https://github.com/Romdhani-void)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)](https://github.com/Romdhani-void)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Romdhani-void&show_icons=true&theme=tokyonight)](https://github.com/Romdhani-void)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Romdhani-void&layout=compact&theme=tokyonight)](https://github.com/Romdhani-void)
 
 ---
 
