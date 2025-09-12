@@ -29,11 +29,7 @@
 
 ### 👨‍💻 What I’m Building & Learning
 
-- DevOps pipelines — automated deployments, infrastructure as code  
-- IoT prototypes & integrations — sensors, data processing, real-time dashboards
+- DevOps pipelines : automated deployments, infrastructure as code  
+- IoT prototypes & integrations 
 - Improving backend scalability & reliability
 - Exploring **Go** and edge computing architectures
-
----
-
-📌 *“Constant progress through discipline & curiosity.”*
