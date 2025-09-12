@@ -2,8 +2,8 @@
 
 - 🖥️ **Subject Matter Expert (SME)** — (France region)  
 - 🌐 **Full-Stack Developer** — Building responsive, scalable web apps.
-- 💛 **TypeScript & JavaScript Lover**
-- 🐹 Exploring **Go** for backend and systems programming
+- 🟦 **TypeScript & JavaScript Lover**
+- ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) Exploring **Go** for backend and systems programming
 - 🚀 Developing **DevOps Skills**
 - ⚡ Interested in **IoT** — connecting devices, data flows, smart environments  
 
