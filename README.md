@@ -23,8 +23,7 @@
 
 ### 📊 GitHub Stats & Languages  
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Romdhani-void&show_icons=true&theme=default)](https://github.com/Romdhani-void)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Romdhani-void&layout=compact&theme=default&hide=html,css,scss)](https://github.com/Romdhani-void)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Romdhani-void&show_icons=true&theme=default)](https://github.com/Romdhani-void)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Romdhani-void&layout=compact&theme=default&hide=html,css,scss)](https://github.com/Romdhani-void)
 
 
 
