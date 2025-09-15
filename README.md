@@ -1,11 +1,11 @@
 # Hi there, I'm Mohamed Ali 👋
 
 - **Subject Matter Expert (SME)** — (France region)  
-  **Full-Stack Developer** — Building responsive, scalable web apps.
+- **Full-Stack Developer** — Building responsive, scalable web apps.
   **TypeScript & JavaScript Lover**
 - ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) Exploring **Go** for backend
 - Developing **DevOps Skills**
-  Interested in **IoT** — connecting devices, data flows, smart environments  
+- Interested in **IoT** — connecting devices, data flows, smart environments  
 
 ---
 
