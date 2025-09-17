@@ -5,7 +5,7 @@
   **TypeScript & JavaScript Lover**
 - ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) Exploring **Go** for backend
 - Developing **DevOps Skills**
- 
+- **Master in IoT** — PID devices integrations, data flows. 
 
 ---
 
