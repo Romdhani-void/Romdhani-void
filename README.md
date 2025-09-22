@@ -1,4 +1,4 @@
-# Hi there, I'm Mohamed Ali <img src="[[https://avatars.githubusercontent.com/u/000000?v=4](https://imgur.com/6Myi0y6](https://imgur.com/6Myi0y6)" width="40" height="40" style="border-radius:50%">
+# Hi there, I'm Mohamed Ali <img src="https://imgur.com/6Myi0y6" width="40" height="40" style="border-radius:50%">
 
 - **Subject Matter Expert (SME)** — (France region)  
 - **Full-Stack Developer** — Building responsive, scalable web apps.
