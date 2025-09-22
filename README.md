@@ -1,4 +1,4 @@
-# Hi there, I'm Mohamed Ali 👋
+# Hi there, I'm Mohamed Ali 
 
 - **Subject Matter Expert (SME)** — (France region)  
 - **Full-Stack Developer** — Building responsive, scalable web apps.
