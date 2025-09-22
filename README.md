@@ -1,4 +1,4 @@
-# <div align="baseline"><h3> Hi there, I'm Mohamed Ali <img src="https://i.imgur.com/6Myi0y6.gif" width="120" height="140" style="border-radius:50%"></h1>
+# <div align="center"><h3> Hi there, I'm Mohamed Ali <img src="https://i.imgur.com/6Myi0y6.gif" width="120" height="140" style="border-radius:50%"></h1>
 
 </div>
 
