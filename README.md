@@ -1,8 +1,8 @@
 # <div align="center">
 
 # <h1>
-#   Hi there, I'm Mohamed Ali 👋
-#   <img src="https://i.imgur.com/6Myi0y6.gif" width="120" height="140" style="border-radius:50%">
+#   Hi there, I'm Mohamed Ali 
+   <img src="https://i.imgur.com/6Myi0y6.gif" width="120" height="140" style="border-radius:50%">
 # </h1>
 
 </div>
