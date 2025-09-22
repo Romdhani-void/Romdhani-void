@@ -1,4 +1,4 @@
-# Hi there, I'm Mohamed Ali <img src="https://i.imgur.com/6Myi0y6.gif" width="80" height="80" style="border-radius:50%">
+# Hi there, I'm Mohamed Ali <img src="https://i.imgur.com/6Myi0y6.gif" width="120" height="140" style="border-radius:50%">
 
 - **Subject Matter Expert (SME)** — (France region)  
 - **Full-Stack Developer** — Building responsive, scalable web apps.
