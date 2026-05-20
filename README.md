@@ -5,7 +5,7 @@
 - **Subject Matter Expert (SME) - since 2020**  (France region)  
 - **Full-Stack Developer**  Building responsive, scalable web apps.
   **TypeScript & JavaScript **
-- Open for **DevOps & Cloud opportunities** 
+- Open to **DevOps & Cloud opportunities**
 
 ---
 
@@ -31,10 +31,9 @@
 
 ### What I’m Building & Learning
 
-- DevOps pipelines : automated deployments, infrastructure as code  
-- IoT prototypes & integrations 
-- Improving backend scalability & reliability
-- Exploring **Go** and edge computing architectures
+DevOps skills : I can confidently handle the full pipeline from development to deployment, now I'm improving the security layer.
+Improving backend scalability and reliability for microservices infrastructures.
+Further enhancing my Bash skills for clean deployments.
 
 
 
