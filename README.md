@@ -4,7 +4,7 @@
 - **Software Engineer - since 2025**
 - **Subject Matter Expert (SME) - since 2020**  (France region)  
 - **Full-Stack Developer**  Building responsive, scalable web apps.
-  **TypeScript & JavaScript **
+  **TypeScript & JavaScript**
 - Open to **DevOps & Cloud opportunities**
 
 ---
