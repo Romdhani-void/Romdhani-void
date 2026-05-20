@@ -1,13 +1,11 @@
 
 # <div >  <h3>   Hi there, I'm Mohamed Ali    <img src="https://i.imgur.com/6Myi0y6.gif"         width="120" height="140"         style="border-radius:50%; vertical-align:middle;"> </h1>  </div>
 
-
+- **Software Engineer**
 - **Subject Matter Expert (SME)**  (France region)  
 - **Full-Stack Developer**  Building responsive, scalable web apps.
-  **TypeScript & JavaScript Lover**
-- ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) Exploring **Go** for backend
-- Developing **DevOps Skills**
-- **Master in IoT**  PID devices integrations, data flows. 
+  **TypeScript & JavaScript **
+- Open for **DevOps & Cloud opportunities** 
 
 ---
 
