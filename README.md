@@ -1,8 +1,8 @@
 
 # <div >  <h3>   Hi there, I'm Mohamed Ali    <img src="https://i.imgur.com/6Myi0y6.gif"         width="120" height="140"         style="border-radius:50%; vertical-align:middle;"> </h1>  </div>
 
-- **Software Engineer**
-- **Subject Matter Expert (SME)**  (France region)  
+- **Software Engineer - since 2025**
+- **Subject Matter Expert (SME) - since 2020**  (France region)  
 - **Full-Stack Developer**  Building responsive, scalable web apps.
   **TypeScript & JavaScript **
 - Open for **DevOps & Cloud opportunities** 
